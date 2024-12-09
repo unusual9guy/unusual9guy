@@ -1,11 +1,14 @@
-# Vansh Goenka
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!👋;I'm+Vansh+Goenka.;Nice+to+meet+you!😄;"/>
+</h1>
 
-👋 Hello! I'm Vansh, a highly motivated and enthusiastic **graduate** of the University of Manchester's BSc (Hons) Artificial Intelligence program. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
+ I'm a recent AI **graduate** from the University of Manchester. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
+
 
 ## About Me
 
 - 🔭 I'm currently immersed in the world of **Natural Language Processing, Machine Learning, and Computer Vision**.
-- 🌱 I'm always eager to learn new technologies and expand my skillset.
+- 🌱 I'm always eager to learn new technologies and expand my skill set.
 - 👯 I'm looking to collaborate on innovative AI projects that can make a difference.
 - 🤔 I'm constantly seeking out new challenges and opportunities to grow as an AI developer.
 
@@ -29,20 +32,13 @@ I'm proficient in a variety of programming languages and tools, including:
 
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" /></a>
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **[Evidence Detection](https://github.com/unusual9guy/Evidence-Detection)**: Developed a system using ROBERTa, Bi-LSTM layers, and custom tokenization to detect evidence in text.
-- **[Text Classification](https://github.com/unusual9guy/Text-Classification)**: Built an NLP model for sentiment analysis and genre classification using NLTK and TensorFlow.
-- **[Face Completion](https://github.com/unusual9guy/Machine-Learning/tree/main/Face-Completion-Model)**: Explored image generation techniques to complete partially occluded faces.
-- **[OthelIO](https://github.com/unusual9guy/OthelIO)**: Developed an AI-powered Othello game using Minmax search.
-
 ## Experience
 
 - **AI Intern** at [CodeSpaze](https://www.linkedin.com/company/codespaze/mycompany/), where I developed a CNN model for image classification.
 
-[![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=unusual9guy)](https://github.com/unusual9guy/github-readme-stats)]
+[![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=unusual9guy&theme=dark)](https://github.com/unusual9guy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unusual9guy&theme=dark)](https://github.com/unusual9guy/github-readme-stats)
 
 ## Let's Connect!
 
