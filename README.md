@@ -33,20 +33,21 @@ I'm proficient in a variety of programming languages and tools, including:
 
 Here are some of the projects I've worked on:
 
-- **Evidence Detection:** Developed a system using ROBERTa, Bi-LSTM layers, and custom tokenization to detect evidence in text. [https://github.com/unusual9guy/Evidence-Detection]
-- **Text Classification:** Built an NLP model for sentiment analysis and genre classification using NLTK and TensorFlow. [https://github.com/unusual9guy/Text-Classification]
-- **Face Completion:** Explored image generation techniques to complete partially occluded faces. [https://github.com/unusual9guy/Machine-Learning/tree/main/Face-Completion-Model]
-- **OthelIO:** Developed an AI-powered Othello game using Minmax search. [https://github.com/unusual9guy/OthelIO]
+- **[Evidence Detection](https://github.com/unusual9guy/Evidence-Detection)**: Developed a system using ROBERTa, Bi-LSTM layers, and custom tokenization to detect evidence in text. 
+- **[Text Classification](https://github.com/unusual9guy/Text-Classification)**: Built an NLP model for sentiment analysis and genre classification using NLTK and TensorFlow. 
+- **[Face Completion](https://github.com/unusual9guy/Machine-Learning/tree/main/Face-Completion-Model)**: Explored image generation techniques to complete partially occluded faces. 
+- **[OthelIO](link-to-project-repository/demo)**: Developed an AI-powered Othello game using Minmax search. 
+- **[Event Lite](https://github.com/unusual9guy/OthelIO)**: Collaborated on a team to develop a functional event booking website. 
 
 ## Experience
 
-- **AI Intern** at CodeSpaze, where I developed a CNN model for image classification. [https://www.linkedin.com/company/codespaze/mycompany/]
+- **[AI Intern](https://www.linkedin.com/company/codespaze/mycompany/)** at CodeSpaze, where I developed a CNN model for image classification.
 
 ## Let's Connect!
 
 I'm always open to connecting with fellow developers and enthusiasts. Feel free to reach out!
 
-[https://www.linkedin.com/in/vansh-goenka-ai/]
+<a href="https://www.linkedin.com/in/vansh-goenka-ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
 <!--
 **unusual9guy/unusual9guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
