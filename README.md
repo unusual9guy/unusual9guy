@@ -1,6 +1,6 @@
 # Vansh Goenka
 
-👋 Hello! I'm Vansh, a highly motivated and enthusiastic **graduate** of the University of Manchester's BSc Artificial Intelligence program. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
+👋 Hello! I'm Vansh, a highly motivated and enthusiastic **graduate** of the University of Manchester's BSc (Hons) Artificial Intelligence program. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
 
 ## About Me
 
@@ -36,12 +36,11 @@ Here are some of the projects I've worked on:
 - **[Evidence Detection](https://github.com/unusual9guy/Evidence-Detection)**: Developed a system using ROBERTa, Bi-LSTM layers, and custom tokenization to detect evidence in text. 
 - **[Text Classification](https://github.com/unusual9guy/Text-Classification)**: Built an NLP model for sentiment analysis and genre classification using NLTK and TensorFlow. 
 - **[Face Completion](https://github.com/unusual9guy/Machine-Learning/tree/main/Face-Completion-Model)**: Explored image generation techniques to complete partially occluded faces. 
-- **[OthelIO](link-to-project-repository/demo)**: Developed an AI-powered Othello game using Minmax search. 
-- **[Event Lite](https://github.com/unusual9guy/OthelIO)**: Collaborated on a team to develop a functional event booking website. 
+- **[OthelIO](https://github.com/unusual9guy/OthelIO)**: Developed an AI-powered Othello game using Minmax search. 
 
 ## Experience
 
-- **[AI Intern](https://www.linkedin.com/company/codespaze/mycompany/)** at CodeSpaze, where I developed a CNN model for image classification.
+- **AI Intern** at [CodeSpaze](https://www.linkedin.com/company/codespaze/mycompany/), where I developed a CNN model for image classification.
 
 ## Let's Connect!
 
