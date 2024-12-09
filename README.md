@@ -42,6 +42,8 @@ Here are some of the projects I've worked on:
 
 - **AI Intern** at [CodeSpaze](https://www.linkedin.com/company/codespaze/mycompany/), where I developed a CNN model for image classification.
 
+[Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=unusual9guy)](https://github.com/unusual9guy/github-readme-stats)
+
 ## Let's Connect!
 
 I'm always open to connecting with fellow developers and enthusiasts. Feel free to reach out!
