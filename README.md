@@ -33,22 +33,20 @@ I'm proficient in a variety of programming languages and tools, including:
 
 Here are some of the projects I've worked on:
 
-- **Evidence Detection:** Developed a system using ROBERTa, Bi-LSTM layers, and custom tokenization to detect evidence in text.
-- **Text Classification:** Built an NLP model for sentiment analysis and genre classification using NLTK and TensorFlow.
-- **Face Completion:** Explored image generation techniques to complete partially occluded faces.
-- **OthelIO:** Developed an AI-powered Othello game using Minmax search.
-- **Event Lite:** Collaborated on a team to develop a functional event booking website.
+- **Evidence Detection:** Developed a system using ROBERTa, Bi-LSTM layers, and custom tokenization to detect evidence in text. [https://github.com/unusual9guy/Evidence-Detection]
+- **Text Classification:** Built an NLP model for sentiment analysis and genre classification using NLTK and TensorFlow. [https://github.com/unusual9guy/Text-Classification]
+- **Face Completion:** Explored image generation techniques to complete partially occluded faces. [https://github.com/unusual9guy/Machine-Learning/tree/main/Face-Completion-Model]
+- **OthelIO:** Developed an AI-powered Othello game using Minmax search. [https://github.com/unusual9guy/OthelIO]
 
 ## Experience
 
-- **AI Intern** at CodeSpaze, where I developed a CNN model for image classification.
+- **AI Intern** at CodeSpaze, where I developed a CNN model for image classification. [https://www.linkedin.com/company/codespaze/mycompany/]
 
 ## Let's Connect!
 
 I'm always open to connecting with fellow developers and enthusiasts. Feel free to reach out!
 
-[Link to LinkedIn profile]
-[Link to Email address]
+[https://www.linkedin.com/in/vansh-goenka-ai/]
 <!--
 **unusual9guy/unusual9guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
