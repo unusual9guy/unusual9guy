@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!👋;I'm+Vansh+Goenka.;Nice+to+meet+you!😄;"/>
+    <img src="https://readme-typing-svg.demolab.com/?size=28&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+there!👋;I'm+Vansh+Goenka.;Nice+to+meet+you!😄;"/>
 </h1>
 
  I'm a recent AI **graduate** from the University of Manchester. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
@@ -45,6 +45,10 @@ I'm proficient in a variety of programming languages and tools, including:
 I'm always open to connecting with fellow developers and enthusiasts. Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/vansh-goenka-ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?size=28&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Thank+You+for+Visiting!🤗;See+you+again!🙃;"/>
+</h1>
 <!--
 **unusual9guy/unusual9guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
