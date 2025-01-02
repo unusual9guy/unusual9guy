@@ -34,7 +34,7 @@ I'm proficient in a variety of programming languages and tools, including:
 
 ## Experience
 
-- **AI Intern** at [CodeSpaze](https://www.linkedin.com/company/codespaze/mycompany/), where I developed a CNN model for image classification.
+- **AI Intern** at [CodeSpaze](https://www.linkedin.com/company/codespaze/mycompany/), where I created a model for image classification using CNN. [Link to Project](https://github.com/unusual9guy/Image-Classification-CNN)
 
 [![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=unusual9guy&theme=dark)](https://github.com/unusual9guy/github-readme-stats)
 
