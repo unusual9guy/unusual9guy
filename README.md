@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com/?size=28&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+there!👋;I'm+Vansh+Goenka.;Nice+to+meet+you!😄;"/>
 </h1>
 
- I'm a recent AI **graduate** from the University of Manchester. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
-
+I'm a recent AI **graduate** from the University of Manchester. I'm passionate about exploring the fascinating world of AI and applying my skills to solve real-world problems.
 
 ## About Me
 
@@ -22,7 +21,11 @@ I'm proficient in a variety of programming languages and tools, including:
 
 - **AI/ML:**
 
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /></a>  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" /></a>  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" /></a> <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" /></a> 
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" /></a>  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" /></a>  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" /></a> <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" /></a>  <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0R_1V2XS3ez-Tz9sKSEf_TFKIikLALt6uA&s" width="40" height="40" /></a>
+
+- **Fine-Tuning Tools:**
+  
+  <a href="https://unsloth.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/150920049?s=280&v=4" width="40" height="40" /></a>
 
 - **Tools:**
 
@@ -30,7 +33,7 @@ I'm proficient in a variety of programming languages and tools, including:
 
 - **API's:**
 
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" /></a>  <a href="https://groq.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtQY9Ofk71m8DVL5yV3d_sDPuqzCexABNLA&s" width="40" height="40" /></a>
 
 ## Experience
 
@@ -49,17 +52,3 @@ I'm always open to connecting with fellow developers and enthusiasts. Feel free 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com/?size=28&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Thank+You+for+Visiting!🤗;See+you+again!🙃;"/>
 </h1>
-<!--
-**unusual9guy/unusual9guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
