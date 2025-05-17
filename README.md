@@ -64,14 +64,15 @@ I'm an AI **graduate** from the University of Manchester and currently working a
 - **Tools:**
 
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /></a>
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" /></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743558261168" width="40" height="40" /></a>
 
 - **APIs:**
 
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" /></a>
   <a href="https://groq.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtQY9Ofk71m8DVL5yV3d_sDPuqzCexABNLA&s" width="40" height="40" /></a>
+  <a href="https://ai.google.dev/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="40" height="40" /></a>
 
 ---
 
@@ -87,7 +88,6 @@ I'm an AI **graduate** from the University of Manchester and currently working a
 
 I'm always open to collaborating with fellow developers and AI enthusiasts! Feel free to reach me on [Linkedin](https://www.linkedin.com/in/vansh-goenka-ai/)
 <!-- <a href="https://www.linkedin.com/in/vansh-goenka-ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a>-->
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?weight=700&size=24&duration=4000&pause=5&color=00BFFF&background=44113300&center=true&width=435&lines=Thank+you+for+visiting!%F0%9F%A4%97;Feel+free+to+explore+my+work!;See+you+again+soon!%F0%9F%99%83" alt="Typing SVG" />
