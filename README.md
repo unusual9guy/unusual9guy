@@ -63,16 +63,20 @@ I'm an AI **graduate** from the University of Manchester and currently working a
 
 - **Tools:**
 
+  <a href="https://ollama.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" width="40" height="40" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743558261168" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" /></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" /></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743558261168" width="40" height="40" /></a>
-
+  
 - **APIs:**
 
+  <a href="https://openai.com/" target="_blank"><img src="https://yt3.googleusercontent.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s160-c-k-c0x00ffffff-no-rj" width="40" height="40" /></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" /></a>
-  <a href="https://groq.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtQY9Ofk71m8DVL5yV3d_sDPuqzCexABNLA&s" width="40" height="40" /></a>
+  <a href="https://tavily.com/" target="_blank"><img src="https://pipedream.com/s.v0/app_qeh7Z6/logo/orig" width="40" height="40" /></a>
   <a href="https://ai.google.dev/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="40" height="40" /></a>
+  <a href="https://groq.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtQY9Ofk71m8DVL5yV3d_sDPuqzCexABNLA&s" width="40" height="40" /></a>
+  
 
 ---
 
