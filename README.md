@@ -4,6 +4,8 @@
 
 I'm an AI **graduate** from the University of Manchester and currently working as a **Software Engineer (RLHF)** at G2i. I'm passionate about building intelligent systems that solve real-world problems.
 
+Currently building a platform to helps small businesses find leads by searching through the web and private databases. 
+
 ---
 
 ## 🔍 Summary
