@@ -18,7 +18,7 @@ Currently building a platform to help small businesses find leads by searching t
 
 ## 💼 Experience
 
-- **Software Engineer for Training AI Data (RLHF)** at [G2i](https://www.g2i.co/) _(Mar 2025 – Present)_
+- **Software Engineer for Training AI Data (RLHF)** at [G2i](https://www.g2i.co/) _(Mar 2025 – August 2025)_
   - I Enhance LLM coding performance by evaluating and editing model-generated responses.
   - I Design, test, and iteratively improve prompt structures for efficient and aligned LLM outputs.
   - I Focus on maintaining clarity, correctness, and compliance the given prompt.
