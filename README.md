@@ -2,9 +2,13 @@
     <img src="https://readme-typing-svg.demolab.com?weight=700&size=24&duration=4000&pause=5&color=00BFFF&background=44113300&center=true&width=435&lines=Hello+there!%F0%9F%91%8B;I'm+Vansh+Goenka.++;Nice+to+meet+you!%F0%9F%98%84" alt="Typing SVG" />
 </h1>
 
-I'm an AI **graduate** from the University of Manchester and currently working as a **Software Engineer (RLHF)** at G2i. I'm passionate about building intelligent systems that solve real-world problems.
+I'm an AI graduate from the University of Manchester with experience as a Software Engineer (RLHF). I'm passionate about building intelligent systems that solve real-world problems.
 
-Currently building a platform to help small businesses find leads by searching through the web and private databases. 
+Currently building a platform to help small businesses find leads by searching through the web and private databases. I specialize in developing practical AI solutions for B2B businesses using LLMs and machine learning technologies.
+
+My expertise includes Python development, AI/ML applications, API integrations, and deploying scalable web applications. I'm focused on creating tools that make advanced AI capabilities accessible to businesses of all sizes.
+
+
 
 ---
 
