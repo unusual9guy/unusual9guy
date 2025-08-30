@@ -1,14 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?weight=700&size=24&duration=4000&pause=5&color=00BFFF&background=44113300&center=true&width=435&lines=Hello+there!%F0%9F%91%8B;I'm+Vansh+Goenka.++;Nice+to+meet+you!%F0%9F%98%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?weight=700&size=24&duration=4500&pause=10&color=00BFFF&background=44113300&center=true&width=435&lines=Hey+,+I'm+Vansh+a.k.a+unusual9guy+;Nice+to+meet+you!%F0%9F%98%84" alt="Typing SVG" />
 </h1>
 
 I'm an AI graduate from the University of Manchester with experience as a Software Engineer (RLHF). I'm passionate about building intelligent systems that solve real-world problems.
 
-Currently building a platform to help small businesses find leads by searching through the web and private databases. I specialize in developing practical AI solutions for B2B businesses using LLMs and machine learning technologies.
+Currently building a platform to help small businesses find leads by searching through the web and private databases. I specialize in building B2B tools that make a dent in daily business with machine learning magic. Passionate about making the impossible possible by using AI for the unexpected.
 
 My expertise includes Python development, AI/ML applications, API integrations, and deploying scalable web applications. I'm focused on creating tools that make advanced AI capabilities accessible to businesses of all sizes.
-
-
 
 ---
 
@@ -16,7 +14,7 @@ My expertise includes Python development, AI/ML applications, API integrations, 
 
 - 🎓 AI graduate with a solid foundation in **machine learning, deep learning**, and **computer vision**.
 - 🧠 Hands-on experience training and refining **LLMs**, developing **CNN architectures**, and model deployment.
-- 🔧 Passionate about fine-tuning models for efficiency, clarity, and reliability — from **code generation via LLMs** to real-time **image classification**.
+- 🔧 Passionate about fine-tuning models for efficiency, clarity, and reliability that includes **code generation via LLMs** to real-time **image classification**.
 
 ---
 
@@ -33,6 +31,11 @@ My expertise includes Python development, AI/ML applications, API integrations, 
   - Applied various data augmentation for real-world performance.
 
 ---
+
+## 🌟 **What makes me unusual?**  
+ - Once debugged a model with a meme. 
+ - Created a retro themed game without two days of sleep and then went to trekking right after, not something I am proud of but yes. 
+ - Learned about swarm robotics from scratch in three weeks time for my dissertation!
 
 ## 🧠 About Me
 
