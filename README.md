@@ -2,25 +2,23 @@
     <img src="https://readme-typing-svg.demolab.com?weight=700&size=24&duration=4500&pause=10&color=00BFFF&background=44113300&center=true&width=435&lines=Hey+,+I'm+Vansh+a.k.a+unusual9guy+;Nice+to+meet+you!%F0%9F%98%84" alt="Typing SVG" />
 </h1>
 
-I'm an AI graduate from the University of Manchester with experience as a Software Engineer (RLHF). I'm passionate about building intelligent systems that solve real-world problems.
+I'm an AI Engineer specializing in Agentic Workflows architecting autonomous systems that plan and self-correct. Currently, I am engineering a SaaS-grade geospatial lead generation engine alongside a GenAI marketing workflow using Gemini and Nano Banana Pro to automate high-fidelity Meta ad creation.
 
-Currently building a platform to help small businesses find leads by searching through the web and private databases. I specialize in building B2B tools that make a dent in daily business with machine learning magic. Passionate about making the impossible possible by using AI for the unexpected.
-
-My expertise includes Python development, AI/ML applications, API integrations, and deploying scalable web applications. I'm focused on creating tools that make advanced AI capabilities accessible to businesses of all sizes.
+My focus is on Human-in-the-Loop pipelines that turn probabilistic models into deterministic business value. Leveraging Python, LangGraph, FastAPI, and Docker, I build robust architectures designed to solve production challenges like inference latency and RAG hallucinations.
 
 ---
 
 ## 🔍 Summary
 
-- 🎓 AI graduate with a solid foundation in **machine learning, deep learning**, and **computer vision**.
+- 🛠️ **AI Engineer** with production experience in building **Agentic RAG** systems, and **GenAI Marketing Pipelines**.
 - 🧠 Hands-on experience training and refining **LLMs**, developing **CNN architectures**, and model deployment.
-- 🔧 Passionate about fine-tuning models for efficiency, clarity, and reliability that includes **code generation via LLMs** to real-time **image classification**.
+- 🔧 Proven track record of delivering business impact, including reducing content production costs by **100%** via automated **GenAI workflows** (Gemini/Nano Banana)
 
 ---
 
 ## 💼 Experience
 
-### **AI Automation Engineer (Contract) | Chitra Goenka Crafts**
+### **AI Automation Engineer (Contract) | Chitra Goenka Crafts & Creations**
 _Remote | Jan 2025 – Present_
 * **GenAI Pipeline:** Architected a marketing workflow using **Nano Banana Pro (Gemini)** and **LangChain** to generate photorealistic product assets, cutting photoshoot costs by **100%**.
 * **SaaS-Grade Tooling:** Engineered a **Geospatial Lead Finder** using Google Maps API that extracts global B2B leads with sub-second latency.
@@ -41,16 +39,15 @@ _Remote | Nov 2024 – Dec 2024_
 ## 🌟 What makes me "Unusual"?
 
 I don't just train models, I break them to see how they fail.
-* **The "Meme" Debugger:** I once visualized CNN feature maps using meme overlays to intuitively understand which layers were overfitting. (It worked).
 * **Agent First:** I believe the future isn't bigger models, but smarter **agentic loops**. I code for the future where AI plans, not just chats.
 * **Rapid Learner:** Learned Swarm Robotics from scratch in 3 weeks for my dissertation because standard robotics felt too "safe."
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🔭 Currently immersed in **Natural Language Processing**, **Machine Learning**, and **Computer Vision**.
-- 🌱 Eager to explore new technologies and frameworks.
-- 👯 Open to collaboration on impactful AI projects.
-- 🤔 Thrive on solving complex problems and constantly growing as a developer.
+* **Current Focus:** Architecting "Human-in-the-Loop" systems for B2B automation.
+* **My Philosophy:** An AI model is only as good as the **pipeline** around it. I spend 20% of my time on the model and 80% on the **orchestration** (LangGraph), **data engineering** (RLHF), and **deployment** (FastAPI/Docker).
+* **What I'm Building:** A geospatial lead-generation engine that combines Google Maps API with autonomous scraping agents to find B2B leads globally.
+
 
 ---
 
@@ -60,10 +57,14 @@ I don't just train models, I break them to see how they fail.
 
   <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" width="40" height="40" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png" width="40" height="40" /></a>
+  
+
+  <!-- <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a> 
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></a> -->
 
 - **AI/ML:**
 
@@ -73,10 +74,7 @@ I don't just train models, I break them to see how they fail.
   <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" /></a>
   <a href="https://radimrehurek.com/gensim/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0R_1V2XS3ez-Tz9sKSEf_TFKIikLALt6uA&s" width="40" height="40" /></a>
-
-- **Fine-Tuning Tools:**
-
-  <a href="https://unsloth.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/150920049?s=280&v=4" width="40" height="40" /></a>
+  
 
 - **Tools:**
 
@@ -84,16 +82,25 @@ I don't just train models, I break them to see how they fail.
   <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743558261168" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" width="40" height="40" /></a>
+  <a href="https://unsloth.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/150920049?s=280&v=4" width="40" height="40" /></a>
   
 - **APIs:**
 
-  <a href="https://openai.com/" target="_blank"><img src="https://yt3.googleusercontent.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s160-c-k-c0x00ffffff-no-rj" width="40" height="40" /></a>
+  <a href="https://ai.google.dev/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="40" height="40" /></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://yt3.googleusercontent.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s160-c-k-c0x00ffffff-no-rj" width="40"              height="40" /></a>
+  <a href="https://www.perplexity.ai/api-platform" target="_blank"><img src="https://framerusercontent.com/images/gcMkPKyj2RX8EOEja8A1GWvCb7E.jpg?width=2000&height=2000" width="40" height="40" /></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" /></a>
   <a href="https://tavily.com/" target="_blank"><img src="https://pipedream.com/s.v0/app_qeh7Z6/logo/orig" width="40" height="40" /></a>
-  <a href="https://ai.google.dev/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="40" height="40" /></a>
   <a href="https://groq.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdtQY9Ofk71m8DVL5yV3d_sDPuqzCexABNLA&s" width="40" height="40" /></a>
+
+- **Backend & DevOps**
   
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /></a>
+  <a href="https://postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt5RQx6V1W6XXJcczgwNbzbdGyfHNCYtSCQ&s" width="40" height="40" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" /></a>
 
 ---
 
@@ -105,9 +112,14 @@ I don't just train models, I break them to see how they fail.
 
 ---
 
-## 🤝 Let's Connect 
+## 🤝 Let's Connect
 
-I'm always open to collaborating with fellow developers and AI enthusiasts! Feel free to reach me on [Linkedin](https://www.linkedin.com/in/vansh-goenka-ai/)
+I am actively looking for **AI Engineering** roles where I can deploy agentic systems to production.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vansh-goenka-ai/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vanshgoenka" /></a>
+<a href="mailto:vanshgoenka007@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 <!-- <a href="https://www.linkedin.com/in/vansh-goenka-ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /></a>-->
 
 <h1 align="center">
