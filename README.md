@@ -20,22 +20,30 @@ My expertise includes Python development, AI/ML applications, API integrations, 
 
 ## 💼 Experience
 
-- **Software Engineer for Training AI Data (RLHF)** at [G2i](https://www.g2i.co/) _(Mar 2025 – August 2025)_
-  - I Enhance LLM coding performance by evaluating and editing model-generated responses.
-  - I Design, test, and iteratively improve prompt structures for efficient and aligned LLM outputs.
-  - I Focus on maintaining clarity, correctness, and compliance the given prompt.
+### **AI Automation Engineer (Contract) | Chitra Goenka Crafts**
+_Remote | Jan 2025 – Present_
+* **GenAI Pipeline:** Architected a marketing workflow using **Nano Banana Pro (Gemini)** and **LangChain** to generate photorealistic product assets, cutting photoshoot costs by **100%**.
+* **SaaS-Grade Tooling:** Engineered a **Geospatial Lead Finder** using Google Maps API that extracts global B2B leads with sub-second latency.
+* **Deployment:** Built a **Streamlit** dashboard allowing non-technical staff to trigger complex scraping and generation tasks.
 
-- **AI Intern** at [CodeSpaze](https://codespaze.com/) _(Nov 2024 – Dec 2024)_
-  - Built an image classification model using CNNs; improved accuracy to ~90% using ensemble methods.
-  - Developed a Streamlit app for live image upload and classification.
-  - Applied various data augmentation for real-world performance.
+### **Software Engineer (Training Data) | G2i**
+_Remote | Mar 2025 – Aug 2025_
+* **RLHF & Data Quality:** Optimized AI-generated code by correcting logic errors to create high-quality ground truth data for training foundation models.
+* **Safety & Compliance:** Enforced strict safety guidelines on code outputs to ensure compliance for production deployment.
+
+### **Computer Vision Intern | CodeSpaze**
+_Remote | Nov 2024 – Dec 2024_
+* **Custom CNNs:** Architected a multi-class object recognition model (vehicles, biological entities), achieving **90% accuracy** via ensemble techniques.
+* **Real-Time Inference:** Deployed a live inference pipeline via Streamlit for instant visual validation.
 
 ---
 
-## 🌟 **What makes me unusual?**  
- - Once debugged a model with a meme. 
- - Created a retro themed game without two days of sleep and then went to trekking right after, not something I am proud of but yes. 
- - Learned about swarm robotics from scratch in three weeks time for my dissertation!
+## 🌟 What makes me "Unusual"?
+
+I don't just train models, I break them to see how they fail.
+* **The "Meme" Debugger:** I once visualized CNN feature maps using meme overlays to intuitively understand which layers were overfitting. (It worked).
+* **Agent First:** I believe the future isn't bigger models, but smarter **agentic loops**. I code for the future where AI plans, not just chats.
+* **Rapid Learner:** Learned Swarm Robotics from scratch in 3 weeks for my dissertation because standard robotics felt too "safe."
 
 ## 🧠 About Me
 
