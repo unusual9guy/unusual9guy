@@ -117,6 +117,13 @@ BSc (Hons) Artificial Intelligence, 2:1, University of Manchester (2021 to 2024)
 
 ## 🛠️ Skills
 
+- **Agent Harness:**
+
+<a href="https://www.anthropic.com/claude-code" target="_blank"><img src="https://cdn.simpleicons.org/claude" alt="Claude Code" title="Claude Code" width="40" height="40" /></a>
+<a href="https://openai.com/codex/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14957082" alt="Codex" title="Codex" width="40" height="40" /></a>
+<a href="https://opencode.ai/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencode/ffffff"><img src="https://cdn.simpleicons.org/opencode/000000" alt="OpenCode" title="OpenCode" width="40" height="40" /></picture></a>
+<a href="https://pi.dev/" target="_blank"><img src="https://pi.dev/logo-auto.svg" alt="Pi (pi.dev)" title="Pi (pi.dev)" width="40" height="40" /></a>
+
 - **Languages:**
 
 <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /></a>
